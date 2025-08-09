@@ -1,13 +1,7 @@
-# Smart India Hackathon 2024: Micro-Doppler Based Target Classification
-
-**Team Name**: Whiskey Tango Foxtrot.
+# Micro-Doppler Based Target Classification
 
 
 ## Problem Statement Overview
-
-**Problem Statement ID**: SIH1606  
-**Theme**: Robotics and Drones  
-**Category**: Software/Hardware
 
 Micro-Doppler-based target classification is crucial in distinguishing drones from birds in radar surveillance systems. The increasing prevalence of drones in sensitive airspace requires a robust and accurate system to differentiate between these targets to ensure safety and security.
 
